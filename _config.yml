@@ -9,9 +9,9 @@
 title: hoshiyuki_bloging
 email: hoshi_yuuki@5star.co.jp
 description: > # this means to ignore newlines until "baseurl:"
-  jekyllでblogをつくってgithub-pagesでホスティングしてみました-。
+  jekyllでblogをつくってgithub-pagesでホスティングしてみました。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://fivestarhoshi.github.io/" # the base hostname & protocol for your site
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: fivestar_hoshi
 github_username:  fivestarHoshi
 
